@@ -1,2 +1,1 @@
-# gmsfx3-sounds
-Sound base for gmsfx3.
+Sound base for gmsfx3.<br>Powered by <a href="https://github.com/xzripper/optimizerai-bypass">optimizerai-bypass</a> & <a href="https://github.com/xzripper/optimizerai-bypass/blob/main/sfxai.txt">sfxai.txt</a>.
