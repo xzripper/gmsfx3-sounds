@@ -1,1 +1,1 @@
-Sound base for <a href="https://github.com/xzripper/gmsfx3">gmsfx3</a>.<br>Powered by <a href="https://github.com/xzripper/optimizerai-bypass">optimizerai-bypass</a> & <a href="https://github.com/xzripper/optimizerai-bypass/blob/main/sfxai.txt">sfxai.txt</a>.
+Sounds base for <a href="https://github.com/xzripper/gmsfx3">gmsfx3</a>.<br>Powered by <a href="https://github.com/xzripper/optimizerai-bypass">optimizerai-bypass</a> & <a href="https://github.com/xzripper/optimizerai-bypass/blob/main/sfxai.txt">sfxai.txt</a>.
